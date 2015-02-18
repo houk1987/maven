@@ -1,0 +1,1 @@
+mvn install:install-file -Dfile=D:\htmlparser-1.6.jar  -DgroupId=org.htmlparser  groupId -DartifactId=htmlparser artifactId -Dversion=1.6 -Dpackaging=jar
